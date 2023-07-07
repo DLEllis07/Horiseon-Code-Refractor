@@ -21,6 +21,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Links
- Deployed: https://dlellis07.github.io/Horiseon-Code-Refractor/
+ Deployed: https://dlellis07.github.io/Horiseon-Code-Refractor
+ 
  GitHub: https://github.com/DLEllis07/Horiseon-Code-Refractor
  
